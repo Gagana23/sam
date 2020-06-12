@@ -1,0 +1,48 @@
+body{
+    background-color:rgb(175, 206, 147);
+}
+
+h3{
+    color: maroon;
+    padding: 20px 30px 15px 10px;
+    margin:20px 30px 15px 10px;
+    border-style: 1px;
+}
+
+.navbar{
+    background-color: greenyellow !important;
+}
+
+button{
+    margin: 20px;
+}
+
+button:hover {
+    color:pink;
+    background-color: brown !important;
+}
+
+div.mine
+{
+    background-color: rgb(188, 173, 255);
+    text-align: center;
+}
+
+div.objective, div.hobbies, div.education, div.skills, div.contact, div.project, div.declaration{
+    background-color: lightsalmon;
+}
+
+img{
+    width: 20%;
+    border-radius: 100%;
+    margin: 20px;
+}
+
+div.games
+{
+    background-color: lightsteelblue;
+}
+
+
+
+
